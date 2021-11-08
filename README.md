@@ -9,3 +9,7 @@ Key may run out due to free trial
 
 
 NOTE: not my real coordinates
+
+- HTML Geolocation: https://www.w3schools.com/html/html5_...  
+- Google Maps Reverse Geocoding: https://developers-dot-devsite-v2-pro...  
+- Get a Google Maps API Key: https://cloud.google.com/maps-platform/  
